@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5608b8db-b53c-4644-98fe-48999d8faef2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-details.html" afterDir="false" />
     </list>
@@ -11,6 +10,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,9 +24,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -37,7 +41,10 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5608b8db-b53c-4644-98fe-48999d8faef2" name="Default Changelist" comment="" />
@@ -47,76 +54,22 @@
       <updated>1602754601855</updated>
       <workItem from="1602754603273" duration="2568000" />
       <workItem from="1602835031658" duration="4692000" />
+      <workItem from="1612024955014" duration="46000" />
+      <workItem from="1612025010645" duration="1705000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="979" height="374" key="GridCell.Tab.0.bottom" timestamp="1602845240203">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="271" y="244" width="998" height="713" key="SettingsEditor" timestamp="1612025071108">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="979" height="374" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1602845240203" />
-    <state width="979" height="374" key="GridCell.Tab.0.center" timestamp="1602845240203">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="271" y="244" width="998" height="713" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1612025071108" />
+    <state x="259" y="372" key="cloudConfig.PluginsDialog" timestamp="1612024989186">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="979" height="374" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1602845240203" />
-    <state width="979" height="374" key="GridCell.Tab.0.left" timestamp="1602845240203">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="979" height="374" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1602845240203" />
-    <state width="979" height="374" key="GridCell.Tab.0.right" timestamp="1602845240203">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="979" height="374" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1602845240203" />
-    <state width="979" height="374" key="GridCell.Tab.1.bottom" timestamp="1602845240203">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="979" height="374" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1602845240203" />
-    <state width="979" height="374" key="GridCell.Tab.1.center" timestamp="1602845240203">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="979" height="374" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1602845240203" />
-    <state width="979" height="374" key="GridCell.Tab.1.left" timestamp="1602845240203">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="979" height="374" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1602845240203" />
-    <state width="979" height="374" key="GridCell.Tab.1.right" timestamp="1602845240203">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="979" height="374" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1602845240203" />
-    <state width="979" height="374" key="GridCell.Tab.2.bottom" timestamp="1602845240203">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="979" height="374" key="GridCell.Tab.2.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1602845240203" />
-    <state width="979" height="374" key="GridCell.Tab.2.center" timestamp="1602845240203">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="979" height="374" key="GridCell.Tab.2.center/0.0.2048.1112@0.0.2048.1112" timestamp="1602845240203" />
-    <state width="979" height="374" key="GridCell.Tab.2.left" timestamp="1602845240203">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="979" height="374" key="GridCell.Tab.2.left/0.0.2048.1112@0.0.2048.1112" timestamp="1602845240203" />
-    <state width="979" height="374" key="GridCell.Tab.2.right" timestamp="1602845240203">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="979" height="374" key="GridCell.Tab.2.right/0.0.2048.1112@0.0.2048.1112" timestamp="1602845240203" />
-    <state width="979" height="374" key="GridCell.Tab.3.bottom" timestamp="1602845240203">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="979" height="374" key="GridCell.Tab.3.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1602845240203" />
-    <state width="979" height="374" key="GridCell.Tab.3.center" timestamp="1602845240203">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="979" height="374" key="GridCell.Tab.3.center/0.0.2048.1112@0.0.2048.1112" timestamp="1602845240203" />
-    <state width="979" height="374" key="GridCell.Tab.3.left" timestamp="1602845240203">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="979" height="374" key="GridCell.Tab.3.left/0.0.2048.1112@0.0.2048.1112" timestamp="1602845240203" />
-    <state width="979" height="374" key="GridCell.Tab.3.right" timestamp="1602845240203">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="979" height="374" key="GridCell.Tab.3.right/0.0.2048.1112@0.0.2048.1112" timestamp="1602845240203" />
+    <state x="259" y="372" key="cloudConfig.PluginsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1612024989186" />
   </component>
 </project>
